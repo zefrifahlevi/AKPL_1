@@ -41,7 +41,7 @@
 					</div>
 				<?php endif ?>
 				<div class="card shadow">
-					<div class="card-header"><strong>Daftar Pengguna</strong></div>
+					<div class="card-header"><strong>Daftar Admin</strong></div>
 					<div class="card-body">
 						<div class="table-responsive">
 							<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
