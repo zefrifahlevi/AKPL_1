@@ -2,35 +2,35 @@
 
 ### Fiturnya apa saja sih?
 Untuk fiturnya sebagai berikut
-1. **Modul Authentikasi**
+1. **Fitur Authentikasi**
    
    terdapat fitur untuk login dan logout.
    
-2. **Modul Data Barang**
+2. **Fitur Data Barang**
    
    terdapat fitur untuk melihat, menambah, mengubah, menghapus dan meng-ekspor data barang.
    
-3. **Modul Data Customer**
+3. **Fitur Data Customer**
 
    terdapat fitur untuk melihat, menambah, mengubah, menghapus dan meng-ekspor data Cutomer.
    
-4. **Modul Data Supplier**
+4. **Fitur Data Supplier**
 
-   terdapat  fitur untuk melihat, menambah, mengubah, menghapus dan meng-ekspor data Supplier.
+   terdapat fitur untuk melihat, menambah, mengubah, menghapus dan meng-ekspor data Supplier.
    
-5. **Modul Data Petugas**
+5. **Fitur Data Petugas**
 
-   terdapat  fitur untuk melihat, menambah, mengubah, menghapus dan meng-ekspor data Petugas.
+   terdapat fitur untuk melihat, menambah, mengubah, menghapus dan meng-ekspor data Petugas.
    
-6. **Modul Transaksi Penerimaan**
+6. **Fitur Transaksi Penerimaan**
 
-   terdapat  fitur untuk melihat, menambah, menghapus dan meng-ekspor transaksi penerimaan.
+   terdapat fitur untuk melihat, menambah, menghapus dan meng-ekspor transaksi penerimaan.
    
-7. **Modul Transaksi Pengeluaran**
+7. **Fitur Transaksi Pengeluaran**
 
-   terdapat  fitur untuk melihat, menambah, menghapus dan meng-ekspor transaksi pengeluaran.
+   terdapat fitur untuk melihat, menambah, menghapus dan meng-ekspor transaksi pengeluaran.
 
-8. **Modul Manajemen Akun**
+8. **Fitur Manajemen Akun**
 
    terdapat fitur untuk melihat dan menghapus akun.
 	 
@@ -42,6 +42,7 @@ Terdapat Dua Role yaitu `admin` & `petugas`
 Untuk cara instalasi dan konfigurasi caranya sangat mudah
 
 1. Kalian download atau clone repositori ini
+2. Diusahakan menggunakan Php 8.0 atau 7.4
 2. Masuk ke folder project ini
 3. Lalu buka terminal dan jalankan `composer install`
 4. Selanjutnya kalian bisa buka file `application/config/config.php` 
